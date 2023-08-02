@@ -1,0 +1,29 @@
+{
+  "name": "svg-logo-maker-module10---ds",
+  "version": "1.0.0",
+  "description": "SVG Logo Maker",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devarasen/SVG-Logo-Maker-Module10---DS.git"
+  },
+  "author": "DS",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Devarasen/SVG-Logo-Maker-Module10---DS/issues"
+  },
+  "homepage": "https://github.com/Devarasen/SVG-Logo-Maker-Module10---DS#readme"
+}
