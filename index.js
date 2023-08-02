@@ -34,7 +34,7 @@ function main() {
         console.log('Generated logo.svg');
 
     }).catch(error => {
-        console.error('Error:', error);
+        console.error('Error --> ', error);
     });
 }
 
