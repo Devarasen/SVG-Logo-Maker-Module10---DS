@@ -14,7 +14,9 @@ The logo is generated using the user input and the svg markup is created using j
 Walkthrough video will show instructions on how to create your own svg logo file using this project.
 The video will also show the tests being run.
 
-Link: https://drive.google.com/file/d/1UJJtuDQzD6q8spkB_VMyCEZezFTuFiOQ/view?usp=sharing
+Link: https://drive.google.com/file/d/121QGiFycZTQ5_zy1GHlEMLSU3sOMftok/view?usp=sharing
+
+Github Repo: https://github.com/Devarasen/SVG-Logo-Maker-Module10---DS
 
 ![Screenshot](./assets/Project%20screenshot.PNG)
 
