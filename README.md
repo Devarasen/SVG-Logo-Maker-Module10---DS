@@ -13,9 +13,10 @@ The logo is generated using the user input and the svg markup is created using j
 
 Walkthrough video will show instructions on how to create your own svg logo file using this project.
 The video will also show the tests being run.
+
 Link: https://drive.google.com/file/d/1UJJtuDQzD6q8spkB_VMyCEZezFTuFiOQ/view?usp=sharing
 
-![Screenshot]()
+![Screenshot](./assets/Project%20screenshot.PNG)
 
 ## Table of Contents
 
